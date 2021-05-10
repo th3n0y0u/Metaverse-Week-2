@@ -48,13 +48,107 @@ Purchase the UFO and then go through 8 rings to obtain the badge.
 Flood Escape 2
 Collect 10 Lost Pages from any individual Map in Easy, Medium & Hard Difficulty.
 
-Don't Press The Button 4	Don't Press The Button 4 Thumbnail.png	Red Scorpion	Talk to Fey, then touch the chest during a special round before anyone else.
-TPS: Street Soccer	Street Soccer.png	TAYFUN7	Score 10 goals to earn the event badge.
-World//Zero	Zero.jpeg	World//Zero	Kill Meta Goblins in any of the worlds until you pick up 32 Metashards that they drop upon dying and bring them back to Fey.
-Pit of Hell	836ecace30c546e94551dc97c9c1b0fd.jpg	.random()	Reach the end of Fey's new "Metaverse" tower that spawns every 2 rounds.
-Saber Simulator	SaberSimulatorThumbnail.jpg	HD Games.	Complete Fey Yoshida's Mission on the new "Plasma Island" using the portal right next to her.
-Mech Warzone	66613ba4aea51d799569bcd52be662cc.jpg	Overheat	Get to Rank 15 and touch the chest in the lobby.
-Esgoto De São Paulo	Esgoto-De-São-Paulo.png	gilvanmota	Go through the Metaverse Champions portal at the lobby and talk to Fey. Once you do that, 3 drill bits and 5 batteries will spawn in the lobby,while the other 2 drill bits are at the end of every level/obby and the rest of the batteries can be found at the mid points between stages.
-Field Trip Z	Field-Trip-Z-Thumbnail.png	Splitting Point Studios	Join the game and go inside a truck.
-Fishing Simulator	Fishing Simulator Thumbnail.jpg	Cloud Entertainment	Teleport to Cyber City by talking to Poperson. Then talk to Fey so she can give you a quest. After that go to the security guard and get another quest. After you finish his quest, talk to him again so he can give you the security card. When you have the card, go to the bank and do a small obby to get the case.
-Would You Quiz	Would-You-Quiz-Thumbnail.png	Trobulate	Get three questions correct in a row.
+Don't Press The Button 4	
+Talk to Fey, then touch the chest during a special round before anyone else.
+
+TPS: Street Soccer	
+Score 10 goals to earn the event badge.
+
+World//Zero	Z
+Kill Meta Goblins in any of the worlds until you pick up 32 Metashards that they drop upon dying and bring them back to Fey.
+
+Pit of Hell	
+Reach the end of Fey's new "Metaverse" tower that spawns every 2 rounds.
+
+Saber Simulator	
+Complete Fey Yoshida's Mission on the new "Plasma Island" using the portal right next to her.
+
+Mech Warzone	
+Get to Rank 15 and touch the chest in the lobby.
+
+Esgoto De São Paulo	
+Go through the Metaverse Champions portal at the lobby and talk to Fey. Once you do that, 3 drill bits and 5 batteries will spawn in the lobby,while the other 2 drill bits are at the end of every level/obby and the rest of the batteries can be found at the mid points between stages.
+
+Field Trip Z	
+Join the game and go inside a truck.
+
+Fishing Simulator	
+Teleport to Cyber City by talking to Poperson. Then talk to Fey so she can give you a quest. After that go to the security guard and get another quest. After you finish his quest, talk to him again so he can give you the security card. When you have the card, go to the bank and do a small obby to get the case.
+
+Would You Quiz	
+Get three questions correct in a row.
+[AJ STRIKER CRATES]
+Super Ball Battle	
+As a team, win a game on the "Planet" map to obtain the badge.
+
+Mega Noob Simulator	
+Go through the Metaverse portal at the start of the game and defeat the 3 elemental bosses. After that take on AJ himself and defeat him to get the badge.
+
+Make a Cake: Back for Seconds!	M
+Create 10 cakes with a frosting and a topping to obtain the badge.
+
+DropBlox	
+Join a game on casual mode and collect 5 shards. After that go back to the lobby and buy the crate in the Metaverse section of the shop.
+
+Survive a Plane 
+Survive the new AJ Striker-themed plane crash to collect the item.
+
+Chaos Clickers	
+Complete 5 quests given by Striker and then follow a green arrow to his portal. Once you go in, you will be teleported to an obby which you need to finish to claim the item.
+
+GERALD	
+Beat any of Gerald's 3 maps.
+
+Car Crash Simulator	
+Go on the "Classic" map and fully complete a loop-de-loop 5 times.
+
+Be a Toy!	
+Collect 4 parts of an egg to summon the crate.
+
+Impostor	
+Complete the Metaverse task on all maps then claim your crate in the lobby.
+
+Shoot Out!	
+Click the "Challenges" button and claim the crate.
+
+Base Raiders	
+Successfully raid a base or defend your base when you're the bonus raid target.
+[WREN CRATES]
+Copyrighted Artists	There were 3 possible ways to obtain this box.
+1 - Win the game.
+
+
+2 - Win the new special "Metaverse" round.
+
+
+3 - Pick the original 6 drawings shown during the "Metaverse" round without guessing a single one wrong.
+
+Deathrun
+Reach the end of any of the Roblox Deathrun maps. The badge can be obtainable as a ghost.
+
+Giant Simulator
+Complete the Metaverse Quest in game.
+
+Goblin Island	
+Talk to Wren and get 10 TK (Total Kills). Go back to Wren to do an obstacle course, complete it to get the chest.
+
+Fart Attack	
+Complete Wren's challenges.
+
+Seconds Till Death
+Win 4 rounds.
+
+Pet Heroes	
+Get at least 3 pets then talk to Wren, once you do that, you will be teleported into a new place where you need to kill monsters until you collect 1,500 gems. You will then have to buy a bridge using those gems and do a small obby to the chest which will aks you to find 3 statues around the map and activate them to claim it. When you activate all of them, go back to the chest and touch it to get the item.
+
+Legends of Speed	
+Get to level 25 and complete Wren's special parkour course.
+
+A Wolf Or Other
+Complete any 5 achievements.
+
+Natural Disaster Survival
+Survive 3 disasters in a row.
+
+Ragdoll Sim	
+Use the Combat tool and combat/push 10 people.
